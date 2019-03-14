@@ -1,0 +1,13 @@
+name: Coredatareset
+options:
+  bundleIdPrefix: com.example
+  deploymentTarget:
+    iOS: "10.0"
+targets:
+  Coredatareset:
+    type: application
+    platform: iOS
+    sources: [src]
+    settings:
+      base:
+        SWIFT_VERSION: 4.2
