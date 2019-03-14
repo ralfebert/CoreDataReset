@@ -1,4 +1,4 @@
-name: Coredatareset
+name: CoreDataReset
 options:
   bundleIdPrefix: com.example
   deploymentTarget:
